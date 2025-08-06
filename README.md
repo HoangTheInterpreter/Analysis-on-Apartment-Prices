@@ -9,23 +9,23 @@ To analyze and identify the key factors influencing apartment prices globally, e
 
 This project uses multiple linear regression to explore the relationship between apartment features (such as size, number of bathrooms, floor level, etc.) and their prices across different countries. And the main goal is to determine which variables most significantly impact pricing and uncover country-level trends that may guide investment opportunities. Here are the variables: 
 
-Price_in_USD (Target Variable): Listing price of the apartment in US dollars.
+    Price_in_USD (Target Variable): Listing price of the apartment in US dollars.
 
-Country: Country where the apartment is located (used for one-hot encoding).
+    Country: Country where the apartment is located (used for one-hot encoding).
 
-Building_construction_year: Year the building was constructed.
+    Building_construction_year: Year the building was constructed.
 
-Building_total_floors: Total number of floors in the building.
+    Building_total_floors: Total number of floors in the building.
 
-Apartment_floor: The floor on which the apartment is located.
+    Apartment_floor: The floor on which the apartment is located.
 
-Apartment_total_area: Total area of the apartment (in square meters).
+    Apartment_total_area: Total area of the apartment (in square meters).
 
-Apartment_living_area: Living area of the apartment (in square meters).
+    Apartment_living_area: Living area of the apartment (in square meters).
 
-Apartment_bedrooms: Number of bedrooms in the apartment.
+    Apartment_bedrooms: Number of bedrooms in the apartment.
 
-Apartment_bathrooms: Number of bathrooms in the apartment.
+    Apartment_bathrooms: Number of bathrooms in the apartment.
 
 3. Tools and Techniques Used
 
